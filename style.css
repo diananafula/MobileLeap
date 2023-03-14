@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(189, 197, 179);
+}
+h1 {
+    color: rgb(255, 0, 0 );
+}
+
+.images {
+    height: 250px;
+    width: 200px;
+}
+.tunapanda {
+    color: aqua;
+    text-align: center;
+}
+.coach {
+    color: brown;
+    font-size: larger;
+}
+.amanda {
+    margin-left: 40%;
+}
